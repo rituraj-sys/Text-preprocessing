@@ -1,2 +1,2 @@
 # Text-preprocessing
-Preprocessing of text data using step by step using NLP libraries NLTK, Spacy etc
+Preprocessing of text data step by step using NLP libraries NLTK, Spacy etc
